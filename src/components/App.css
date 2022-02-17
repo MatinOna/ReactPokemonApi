@@ -1,0 +1,21 @@
+.new-pokemon {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.title-pokemon {
+    margin-top: 10px;
+}
+
+.vertical-align {
+    vertical-align: center;
+    padding-top: 3px;
+}
+
+.vertical-form {
+    margin-top: 50px;
+}
+
+.btn-new {
+    margin-left: 7px;
+}
