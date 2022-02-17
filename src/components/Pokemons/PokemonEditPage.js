@@ -1,7 +1,6 @@
 import React, {useEffect, useState} from 'react';
-import { Modal } from 'antd';
 import useFetch from "../../utils/useFetch";
-import {Alert, Button, Col, Form, Input, message, Row, Select, Slider, Spin} from "antd";
+import {Alert, Button, Col, Form, Input, message, Row, Select, Slider, Spin, Modal} from "antd";
 import {SaveOutlined} from "@ant-design/icons";
 import getData, {editItem} from "../../utils/api";
 const { Option } = Select;
